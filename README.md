@@ -1,5 +1,6 @@
 # Ehtisham Sadiq Website
 
-ehtisham.github.io
+
+**Link:** ehtisham-sadiq.github.io/ehtisham/
 
 Ehtisham Sadiq's Personal Website
